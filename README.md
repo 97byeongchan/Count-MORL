@@ -38,7 +38,7 @@ All experiments were run for 5 random seeds each and learning curves are smoothe
 
 ### MuJoCo-v2
 
-![](./figure/MuJoCo-v2.png)
+![](figure/MuJoCo_v2.png)
 
 
 # Reference
