@@ -30,7 +30,7 @@ python train.py --task "hopper-medium-replay-v2" --rollout-length 5 --reward-pen
 ## Plot
 
 ```
-python plotter.py --root-dir "log" --task "hopper-medium-replay-v0"
+python plotter.py --root-dir "log" --task "halfcheetah-random-v2"
 ```
 
 # Results
